@@ -3,7 +3,7 @@
 @import 'default';
 
 :root {
-  --color-background: #fff;
+  --color-background: #666666;
   --color-foreground: #333;
   --color-highlight: #666666;
 }

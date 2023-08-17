@@ -27,7 +27,7 @@ ul ul {
 
 section.lead h1 {
   color: #666666;
-  text-align: center;
+  text-align: left;
 }
 section.lead h1 strong {
   -webkit-text-stroke: 1px #666666;

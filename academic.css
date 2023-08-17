@@ -3,7 +3,7 @@
 @import 'gaia';
 
 :root {
-  --color-background: #666666;
+  --color-background: #fff;
   --color-foreground: #333;
   --color-highlight: #666666;
 }
@@ -14,7 +14,6 @@ section {
   padding-top: 90px;
   padding-left: 40px;
   padding-right: 40px;
-  background-color: var(--color-background); /* Add this line */
 }
 
 section::after {
